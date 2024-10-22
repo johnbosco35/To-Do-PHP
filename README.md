@@ -33,3 +33,8 @@ Usage
 On the homepage, add new tasks by typing into the input field and submitting.
 View the list of tasks below the input field.
 Delete tasks as needed by clicking the delete button.
+
+Future Enhancements
+User Authentication: Adding login functionality so each user can manage their own tasks.
+Task Editing: Allowing users to update or edit existing tasks.
+Categories: Organizing tasks by categories for better management.
