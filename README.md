@@ -13,3 +13,10 @@ PHP: Server-side scripting for handling task management logic.
 MySQL: Database management to store and retrieve tasks.
 HTML/CSS: Basic frontend structure and styling for the user interface.
 XAMPP: Used as a local development environment.
+
+Getting Started
+Prerequisites
+To run this application on your local machine, you’ll need:
+
+XAMPP or any other PHP and MySQL environment.
+A web browser for accessing the application.
