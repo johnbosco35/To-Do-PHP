@@ -20,3 +20,11 @@ To run this application on your local machine, you’ll need:
 
 XAMPP or any other PHP and MySQL environment.
 A web browser for accessing the application.
+
+Installation
+Clone or download the repository to your local machine.
+Move the project folder to your XAMPP htdocs directory.
+Start your XAMPP server (Apache and MySQL).
+Open phpMyAdmin and create a new database named to_do_list.
+Import the SQL file provided in the database/ directory to create the necessary tables.
+Open the project in your browser via http://localhost/to-do-list.
