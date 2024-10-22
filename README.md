@@ -38,3 +38,8 @@ Future Enhancements
 User Authentication: Adding login functionality so each user can manage their own tasks.
 Task Editing: Allowing users to update or edit existing tasks.
 Categories: Organizing tasks by categories for better management.
+
+Acknowledgements
+PHP.net for documentation and resources.
+W3Schools for tutorials on HTML, CSS, and PHP.
+StackOverflow for troubleshooting help.
