@@ -38,10 +38,6 @@ include 'db_connect.php';
                     <img src="image/f.png" width="100%">
                     <img src="image/Ellipsis.gif" width="80px">
                 </div>
-            <!-- <input type="checkbox">
-            <h2>This is Johnbosco</h2>
-            <br>
-            <small>created: 3/3/2020</small> -->
             </div>
             <?php }?>
 
