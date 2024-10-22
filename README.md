@@ -40,6 +40,6 @@ Task Editing: Allowing users to update or edit existing tasks.
 Categories: Organizing tasks by categories for better management.
 
 Acknowledgements
-PHP.net for documentation and resources.
-W3Schools for tutorials on HTML, CSS, and PHP.
-StackOverflow for troubleshooting help.
+PHP.net.com for documentation and resources.
+W3Schools.com for tutorials on HTML, CSS, and PHP.
+StackOverflow.com for troubleshooting help.
