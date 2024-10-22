@@ -28,3 +28,8 @@ Start your XAMPP server (Apache and MySQL).
 Open phpMyAdmin and create a new database named to_do_list.
 Import the SQL file provided in the database/ directory to create the necessary tables.
 Open the project in your browser via http://localhost/to-do-list.
+
+Usage
+On the homepage, add new tasks by typing into the input field and submitting.
+View the list of tasks below the input field.
+Delete tasks as needed by clicking the delete button.
